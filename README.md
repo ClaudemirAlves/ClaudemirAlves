@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone! 👋
 <div align="center">
   </br>
   - 👋 My name is Claudemir Andrade  </br>
