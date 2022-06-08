@@ -8,12 +8,12 @@
   </div>
 <div align="center">
   <a href="https://github.com/ClaudemirAlves">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=ClaudemirAlves&show_icons=true&theme=prussian&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudemirAlves&layout=compact&langs_count=7&theme=prussian&cache_seconds=1800"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ClaudemirAlves&show_icons=true&theme=prussian&include_all_commits=true&count_private=true&cache_seconds=30000"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudemirAlves&layout=compact&langs_count=7&theme=prussian&cache_seconds=30000"/>
 
 </div>
   <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudemirAlves&theme=prussian" width="60%" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudemirAlves&theme=prussian" width="50%" >
   </div>
 <div align="center">
   <div style="display: inline_block"><br>
