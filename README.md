@@ -1,9 +1,9 @@
-### Hi everyone! 👋
+### Hi everyone! 😁
 <div align="center">
   </br>
   - 👋 My name is Claudemir Andrade  </br>
   </br>
-  - 👀 I'm a programming student </br>
+  - 💻☕ I'm a programming student </br>
   </br>
   </div>
 <div align="center">
