@@ -5,7 +5,10 @@
   </br>
   - 💻☕ I'm a programming student </br>
   </br>
+  - 🌎 My LinkedIn: https://www.linkedin.com/in/claudemir-alves-andrade/
+  </br>
   </div>
+  </br>
 <div align="center">
   <a href="https://github.com/ClaudemirAlves">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ClaudemirAlves&show_icons=true&theme=prussian&include_all_commits=true&count_private=true&cache_seconds=30000"/>
