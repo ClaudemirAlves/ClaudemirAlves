@@ -3,10 +3,6 @@
   </br>
   👋 My name is Claudemir Andrade  </br>
   </br>
-  💻☕ I'm a programming student </br>
-  </br>
-  🌎 My LinkedIn: https://www.linkedin.com/in/claudemir-alves-andrade/
-  </br>
   </div>
   </br>
 <div align="center">
