@@ -1,10 +1,6 @@
 ### Hi everyone! 😁
 <div align="center">
-  </br>
-  👋 My name is Claudemir Andrade  </br>
-  </br>
   </div>
-  </br>
 
 </div>
   <div align="center">
